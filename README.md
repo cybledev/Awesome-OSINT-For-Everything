@@ -1116,6 +1116,7 @@ Enter two images and the difference will show up below
 
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
+- [Odin by Cyble](https://odin.io/) - Powerful Internet Scanner that provides search across Hosts, IP Services, Certificates, Exposed Files & Buckets and Subdomains etc. It has the largest dataset amongst it's competitors.
 - [SecurityTrails](https://securitytrails.com/) - search for domain, IPs, keyword or Hostname
 - [Shodan](https://shodan.io/) - Shodan is a search engine that lets users search for various types of servers connected to the internet using a variety of filters. Some have also described it as a search engine of service banners, which are metadata that the server sends back to the client.
 - [Internetdb.shodan.io](https://internetdb.shodan.io/) - The InternetDB API provides a fast way to see the open ports for an IP address. It gives a quick, at-a-glance view of the type of device that is running behind an IP address to help you make decisions based on the open ports.
